@@ -1,5 +1,5 @@
 <h1>Meteorological Data and Air Quality in Lima</h1>
-<span><strong>Available at:</strong> https://appapp-vqcpeggg44uvexjw6ottmy.streamlit.app/</span>
+<span><strong>Available at:</strong>https://lima-meteorological-dashboard-aad5brz4mk4vpbqflp5n3c.streamlit.app</span>
 
 <p>This Streamlit app provides historical meteorological data from various locations in Lima, Peru.</p>
 
